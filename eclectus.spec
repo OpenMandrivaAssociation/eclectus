@@ -8,6 +8,7 @@ URL:		http://code.google.com/p/eclectus/
 Source0:	http://eclectus.googlecode.com/files/%{name}-%{version}beta.tar.gz
 %py_requires -d
 BuildRequires:	python-setuptools
+BuildRequires:	kdelibs4-core
 BuildArch:	noarch
 Requires:	python-kde4
 Requires:	cjklib
