@@ -11,6 +11,11 @@ BuildRequires:	python-setuptools
 BuildArch:	noarch
 Requires:	python-kde4
 Requires:	cjklib
+Suggests:	eclectus-voice-female
+Suggests:	eclectus-voice-male
+Suggests:	eclectus-segment-bwpng
+Suggests:	eclectus-segment-ordergif
+Suggests:	eclectus-segment-redpng
 BuildRoot:      %{_tmppath}/%{name}-%{version}-buildroot
 
 %description
