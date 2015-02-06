@@ -2,7 +2,7 @@ Summary:	Han character dictionary
 
 Name:		eclectus
 Version:	0.2
-Release:	3
+Release:	4
 Group:		Development/Python
 License:	GPLv3+
 URL:		http://code.google.com/p/eclectus/
