@@ -5,7 +5,7 @@ Version:	0.2
 Release:	4
 Group:		Development/Python
 License:	GPLv3+
-URL:		http://code.google.com/p/eclectus/
+URL:		https://code.google.com/p/eclectus/
 Source0:	http://eclectus.googlecode.com/files/%{name}-%{version}beta.tar.gz
 BuildRequires:  python-devel
 BuildRequires:	python-setuptools
